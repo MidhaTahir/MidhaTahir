@@ -6,7 +6,7 @@
 - 💥 Pythonist and AI enthusiast 🧠✅
 - 💥 I'm currently learning **REACT** 👈⌛
 - 💥 I’m currently working on __Code Editor Project for KIDS__ 😍🔥
-- 💥 I'm planning to launch **coding school for kids** 😎🕥
+- 💥 I have recently started **[Kodersplace For Teens](https://github.com/KodersPlace)** 😎🕥 
 - 💥 [Email me](mailto:midhatahirkhan2011[at]gmail[dot]com) for project collaboration 📫💬
 
 

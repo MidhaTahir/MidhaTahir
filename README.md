@@ -2,15 +2,12 @@
 
 ### I am Midha Tahir 💻🙋‍
 
-<p>
-<img align="right" src="https://ci6.googleusercontent.com/proxy/pyINxn83A32lkYElRF65a6Mv3Cv5wlqrgS7dqwvRcArry89SeMfMWerdYP90ixmFRLevtKEUA2ENtdhKT6-SiK-KrUmt13-M1i1xUoQqj50-NfE2qzTLiBBLwFkvBjxm8022=s0-d-e1-ft#https://drive.google.com/uc?id=1XYCaZFlsx3dwoegQvaPLMNnxLmA4cx1X&export=download" height:'50'>
-</p>
 
 - 💥 Future Software Engineer 🎓
 - 💥 Pythonist and AI enthusiast 🧠
 - 💥 I'm currently learning **REACT** ⌛
-- 💥 I have recently started **[Kodersplace For Teens](https://github.com/KodersPlace)**✨
-- 💥 [Resume](https://drive.google.com/file/d/18RKwjIr8XM2s3h97C3E5-R-E3A4zog96/view?usp=sharing) 📝
+- 💥 I have recently started **[Kodersplace For Teens](https://github.com/KodersPlace)** ✨
+- 💥 [Resume](https://drive.google.com/file/d/1S3ygAcmJo5kEPHY0mhQDxEK_6GYZ31G_/view?usp=sharing) 📝
 
 
 

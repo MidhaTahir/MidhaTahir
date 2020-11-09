@@ -6,7 +6,7 @@
 - 💥 Future Software Engineer 🎓
 - 💥 Pythonist and AI enthusiast 🧠
 - 💥 I'm currently learning **REACT** ⌛
-- 💥 Founder of **[Kodersplace](https://github.com/KodersPlace)** ✨
+- 💥 Founder of **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
 - 💥 [Resume](https://drive.google.com/file/d/1S3ygAcmJo5kEPHY0mhQDxEK_6GYZ31G_/view?usp=sharing) 📝
 
 

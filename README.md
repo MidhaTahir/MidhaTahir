@@ -8,7 +8,7 @@
 - 💥 I'm currently learning **REACT** ⌛
 - 💥 Founder of **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
 - 💥 [Resume](https://drive.google.com/file/d/1S3ygAcmJo5kEPHY0mhQDxEK_6GYZ31G_/view?usp=sharing) 📝
-
+- 💥 [Connect with me](https://linktr.ee/midhatahir)
 
 
 ### How to reach me ✅

@@ -7,6 +7,7 @@
 - 💥 Pythonist and AI enthusiast 🧠
 - 💥 I'm currently learning **REACT** ⌛
 - 💥 Founder of **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
+- 💥 [Projects] (https://linktr.ee/midha) ✔
 - 💥 [Resume](https://drive.google.com/file/d/1S3ygAcmJo5kEPHY0mhQDxEK_6GYZ31G_/view?usp=sharing) 📝
 - 💥 [Connect with me](https://linktr.ee/midhatahir)
 

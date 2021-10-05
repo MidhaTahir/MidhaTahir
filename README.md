@@ -1,5 +1,5 @@
 - 💥 Final Year Software Engineering Student 🎓
-- 💥 I'm currently learning **Strapi, TypeScript, NextJS and Gastby** ⌛
+- 💥 I'm currently learning **ReactNative, Headless CMS, TypeScript, NextJS and Gastby** ⌛
 - 💥 [Portfolio](https://midhatahir.me/) ✔
 - 💥 Initiated **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
 - 💥 [Connect with me](https://linktr.ee/midhatahir) 🔗

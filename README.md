@@ -1,6 +1,7 @@
 - 💥 Final Year Software Engineering Student 🎓
-- 💥 I'm currently learning **ReactNative, Headless CMS, TypeScript, NextJS and Gastby** ⌛
+- 💥 I'm currently learning **Web3.0, ReactNative, TypeScript, NextJS and Gastby** ⌛
 - 💥 [Portfolio](https://midhatahir.me/) ✔
 - 💥 Initiated **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
 - 💥 [Connect with me](https://linktr.ee/midhatahir) 🔗
 - 💥 Working as a full time react and react native developer @ Getweys 🏠
+- 💥 FYP -> An NFT Marketplace

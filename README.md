@@ -3,5 +3,5 @@
 - 💥 [Portfolio](https://midhatahir.me/) ✔
 - 💥 Initiated **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
 - 💥 [Connect with me](https://linktr.ee/midhatahir) 🔗
-- 💥 Working as a full time react and react native developer @ Getweys 🏠
+- 💥 Working as a Full Stack Developer @ ByteCorp 🏠
 - 💥 FYP -> An NFT Marketplace

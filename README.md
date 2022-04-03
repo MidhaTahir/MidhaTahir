@@ -4,4 +4,4 @@
 - 💥 Initiated **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
 - 💥 [Connect with me](https://linktr.ee/midhatahir) 🔗
 - 💥 Working as a Full Stack Developer @ ByteCorp 🏠
-- 💥 FYP -> An NFT Marketplace
+- 💥 FYP: Building an NFT marketplace with low gas fees in transactions and making NFT assets with generative AI

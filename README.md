@@ -5,3 +5,4 @@
 - 💥 [Connect with me](https://linktr.ee/midhatahir) 🔗
 - 💥 Working as a Full Stack Developer @ ByteCorp 🏠
 - 💥 FYP: Building an NFT marketplace with low gas fees in transactions and making NFT assets with generative AI
+- 💥 Enthusiast to work on AI, Blockchain and IOT. 

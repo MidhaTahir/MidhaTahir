@@ -1,6 +1,6 @@
 - 💥 Software Engineering Graduate 🎓
 - 💥 Working as a Full Stack Developer @ ByteCorp 🏠
-- 💥 I'm currently learning **Web3.0, TypeScript, NextJS and Gastby** ⌛
+- 💥 I'm currently working to switch slowly my path in **AI** ⌛
 - 💥 [Portfolio](https://midhatahir.netlify.app/) ✔
 - 💥 Initiated **[Kodersplace](https://www.facebook.com/kodersplace/)** ✨
 - 💥 [Connect with me](https://linktr.ee/midhatahir) 🔗

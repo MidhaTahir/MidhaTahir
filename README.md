@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Midha Tahir</h1>
+<h3 align="center">A passionate full-stack developer | AI Enthusiast </h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhatahir" alt="midhatahir" /></a> </p>
+
 - 💥 Software Engineering Graduate 🎓
 - 💥 Working as a Full Stack Developer @ ByteCorp 🏠
 - 💥 I'm currently working to switch slowly my path in **AI** ⌛

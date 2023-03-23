@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midha Tahir</h1>
-<h3 align="center">A passionate full-stack developer | [Check My Portfolio](https://www.midhatahir.tech/) </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=midhatahir&label=Profile%20views&color=0e75b6&style=flat" alt="midhatahir" /> </p>
+<h3 align="center">A passionate full-stack developer | www.midhatahir.tech </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=midhatahir&label=Profile%20views&color=0e75b6&style=flat" alt="midhatahir" /> </p>
 
 
 <p align="center"> <a href="http://www.instagram.com/mitgeeks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/midhatahir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/midhatahir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>

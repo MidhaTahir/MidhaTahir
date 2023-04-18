@@ -57,15 +57,24 @@
 </p>
 </div>
 
-
-
-<div align="center">
-  <p align="center">
+<details>
+  <summary>:zap: See my Stats</summary>
+  
+  <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=midhatahir&show_icons=true&locale=en" alt="midhatahir" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhatahir&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="midhatahir" />
-    <a href="https://app.daily.dev/midhatahir"><img src="https://github.com/midhatahir/midhatahir/blob/master/devcard.svg" width="256" align="right" alt="Midha Tahir's Dev Card"/></a>
-  </p>
-</div>
+  </div>
+  
+  <a href="http://www.github.com/midhatahir">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=midhatahir&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</details>
+
+<details>
+  <summary>:zap: Reading Stats</summary>
+
+  <a href="https://app.daily.dev/midhatahir"><img src="https://github.com/midhatahir/midhatahir/blob/master/devcard.svg" width="256" alt="Midha Tahir's Dev Card"/></a>
+</details>
 
  
  

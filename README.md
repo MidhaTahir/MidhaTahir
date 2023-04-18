@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Midha Tahir</h1>
 <h3 align="center">A passionate full-stack developer | www.midhatahir.tech </h3> 
 
-<br />
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=midhatahir&label=Profile%20views&color=0e75b6&style=flat" alt="midhatahir" /> 
@@ -18,20 +18,15 @@
 
 <br />
 
-<div>
-  <p align="left">I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
-  
-  <a href="https://app.daily.dev/midhatahir"><img src="https://github.com/midhatahir/midhatahir/blob/master/devcard.svg" width="256"
-      align="right" alt="Midha Tahir's Dev Card"/></a>
-</div>
-  
+<p align="left">I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
 
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhatahir" alt="midhatahir" /></a> </p>
-
 
 
 ### Skills
 
+<div>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -60,19 +55,22 @@
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
+</div>
 
 
-<details>
-  <summary>:zap: See my Stats</summary>
-  
-  <div align="left">
+
+<div align="center">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=midhatahir&show_icons=true&locale=en" alt="midhatahir" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhatahir&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="midhatahir" />
-  </div>
-  
-  <a href="http://www.github.com/midhatahir">
+    <a href="https://app.daily.dev/midhatahir"><img src="https://github.com/midhatahir/midhatahir/blob/master/devcard.svg" width="256" align="right" alt="Midha Tahir's Dev Card"/></a>
+  </p>
+</div>
+
+ 
+ 
+ <a href="http://www.github.com/midhatahir">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=midhatahir&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a>
-</details>
+</a>
 
 

@@ -1,20 +1,33 @@
 <h1 align="center">Hi 👋, I'm Midha Tahir</h1>
-<h3 align="center">A passionate full-stack developer | www.midhatahir.tech </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=midhatahir&label=Profile%20views&color=0e75b6&style=flat" alt="midhatahir" /> </p>
+<h3 align="center">A passionate full-stack developer | www.midhatahir.tech </h3> 
 
 
-<p align="center"> <a href="http://www.instagram.com/mitgeeks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/midhatahir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/midhatahir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=midhatahir&label=Profile%20views&color=0e75b6&style=flat" alt="midhatahir" /> 
+  <a href="https://instagram.com/mitgeeks">
+    <img src="https://img.shields.io/static/v1?logo=instagram&style=flat-square&color=0072b1&label=instagram&message=%E2%98%86" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/midhatahir/">
+    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/midhatahir">
+    <img src="https://img.shields.io/twitter/follow/midhatahir?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Twitter" />
+  </a>
+</div>
 
-<p align="center"> I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I've been creating web applications for the past 4 years. Other than this I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhatahir" alt="midhatahir" /></a> </p>
+<div align="left">
+  <p align="center">I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I've been creating web applications for the past 4 years. Other than this I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
+</div>
+  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=midhatahir&show_icons=true&locale=en" alt="midhatahir" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhatahir" alt="midhatahir" /></a> </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=midhatahir&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="midhatahir" /></p>
+
 
 ### Skills
 
-<p align="center">
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -44,4 +57,17 @@
 </p>
 
 
-<a href="http://www.github.com/midhatahir"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=midhatahir&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<details>
+  <summary>:zap: See my Stats</summary>
+  
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=midhatahir&show_icons=true&locale=en" alt="midhatahir" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhatahir&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="midhatahir" />
+  </div>
+  
+  <a href="http://www.github.com/midhatahir">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=midhatahir&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</details>
+
+

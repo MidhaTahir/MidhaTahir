@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Midha Tahir</h1>
 <h3 align="center">A passionate full-stack developer | www.midhatahir.tech </h3> 
 
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=midhatahir&label=Profile%20views&color=0e75b6&style=flat" alt="midhatahir" /> 
@@ -15,9 +16,10 @@
   </a>
 </div>
 
+<br />
 
 <div align="left">
-  <p align="center">I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I've been creating web applications for the past 4 years. Other than this I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
+  <p>I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I've been creating web applications for the past 4 years. Other than this I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
   
   <a href="https://app.daily.dev/midhatahir"><img src="https://github.com/midhatahir/midhatahir/blob/master/devcard.svg" width="256"
       align="right" alt="Midha Tahir's Dev Card"/></a>

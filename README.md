@@ -18,8 +18,8 @@
 
 <br />
 
-<div align="left">
-  <p>I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I've been creating web applications for the past 4 years. Other than this I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
+<div>
+  <p align="left">I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
   
   <a href="https://app.daily.dev/midhatahir"><img src="https://github.com/midhatahir/midhatahir/blob/master/devcard.svg" width="256"
       align="right" alt="Midha Tahir's Dev Card"/></a>

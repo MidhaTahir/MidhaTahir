@@ -66,11 +66,7 @@
   </div>
 </details>
 
-<details>
-  <summary>:zap: Reading Stats</summary>
 
-  <a href="https://app.daily.dev/midhatahir"><img src="https://github.com/midhatahir/midhatahir/blob/master/devcard.svg" width="256" alt="Midha Tahir's Dev Card"/></a>
-</details>
 
  
  

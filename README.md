@@ -21,7 +21,6 @@
 <p align="left">I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
 
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midhatahir" alt="midhatahir" /></a> </p>
 
 
 ### Skills

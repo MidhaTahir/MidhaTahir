@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midha Tahir</h1>
-<h3 align="center">A passionate full-stack developer | www.midhatahir.tech </h3> 
+<h3 align="center">A passionate full-stack developer </h3> 
 
 ---
 
@@ -18,7 +18,7 @@
 
 <br />
 
-<p align="left">I am a Software Engineer having 3 years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
+<p align="left">I am a Software Engineer having 3+ years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I love to meet new tech people and speak about the latest technologies in the seminars.  </p>
 
   
 

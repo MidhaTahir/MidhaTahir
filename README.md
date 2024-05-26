@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Midha Tahir</h1>
 <h3 align="center">A passionate full-stack developer </h3> 
-<h6 align="center">https://midhatahir.vercel.app/</h6> 
+<h6 align="center">https://midhatahir.com/</h6> 
 
 ---
 

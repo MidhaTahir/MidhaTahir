@@ -19,7 +19,7 @@
 
 <br />
 
-<p align="left">I am a Software Engineer having 3+ years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I am currently learning about LLMs and bots </p>
+<p align="left">I am a Software Engineer having 5+ years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I am currently learning about LLMs and bots </p>
 
   
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Midha Tahir</h1>
-<h3 align="center">A passionate full-stack developer </h3> 
+<h3 align="center">Full Stack Engineer | Building AI, Web3, 3D Scalable Web Apps</h3>
 <h6 align="center">https://midhatahir.com/</h6> 
 
 ---
@@ -19,12 +19,17 @@
 
 <br />
 
-<p align="left">I am a Software Engineer having 5+ years of experience in web development world. I love integrating the web with innovative technologies like AI, Web 3.0, 3D Models. I am currently learning about LLMs and bots </p>
+<p align="left">
+  🚀 I’m a Full Stack Engineer with 4+ years of experience building modern web & mobile applications.<br>
+  🤖 I love working on AI-driven bots, blockchain tools, and React-based platforms.<br>
+  📚 Currently diving deeper into LLMs, prompt engineering, and voice-interactive agents.<br>
+  🔗 Check out my work at <a href="https://midhatahir.com">midhatahir.com</a>
+</p>
 
   
 
 
-### Skills
+### 🛠️ Tech Stack
 
 <div>
 <p align="left">
@@ -57,13 +62,6 @@
 </p>
 </div>
 
-<details>
-  <summary>:zap: See my Stats</summary>
-  
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=midhatahir&show_icons=true&locale=en" alt="midhatahir" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhatahir&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="midhatahir" />
-  </div>
-</details>
+
 
 

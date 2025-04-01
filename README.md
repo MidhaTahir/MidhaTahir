@@ -26,8 +26,9 @@
   🔗 Check out my work at <a href="https://midhatahir.com">midhatahir.com</a>
 </p>
 
-  
+## 🎯 Mission
 
+Building impactful software that bridges real-world needs with cutting-edge technologies — from AI-powered trading bots to HIPAA-compliant platforms.
 
 ### 🛠️ Tech Stack
 
